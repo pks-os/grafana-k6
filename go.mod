@@ -16,11 +16,11 @@ require (
 	github.com/gorilla/websocket v1.5.3
 	github.com/grafana/xk6-browser v1.9.1
 	github.com/grafana/xk6-dashboard v0.7.5
-	github.com/grafana/xk6-output-opentelemetry v0.2.0
+	github.com/grafana/xk6-output-opentelemetry v0.3.0
 	github.com/grafana/xk6-output-prometheus-remote v0.4.0
-	github.com/grafana/xk6-redis v0.3.0
-	github.com/grafana/xk6-webcrypto v0.4.0
-	github.com/grafana/xk6-websockets v0.7.1
+	github.com/grafana/xk6-redis v0.3.1
+	github.com/grafana/xk6-webcrypto v0.5.0
+	github.com/grafana/xk6-websockets v0.7.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/influxdata/influxdb1-client v0.0.0-20190402204710-8ff2fc3824fc
 	github.com/jhump/protoreflect v1.16.0
@@ -39,7 +39,7 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.9.0
-	github.com/tidwall/gjson v1.17.1
+	github.com/tidwall/gjson v1.18.0
 	go.opentelemetry.io/otel v1.29.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.29.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.29.0
